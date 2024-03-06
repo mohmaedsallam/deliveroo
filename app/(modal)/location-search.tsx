@@ -30,7 +30,7 @@ const LocationSearch = () => {
           });
         }}
         query={{
-          key: "AIzaSyBfJG8CsFYMLUjprqsVGxIhQkw6feAss40",
+          key: YOUR_API_KEY,
           language: "en",
         }}
         renderLeftButton={() => (
